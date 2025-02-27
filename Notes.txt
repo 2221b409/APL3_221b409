@@ -1,0 +1,20 @@
+d p {key trapped, spare key, in campus}
+d p {recurring prob, standard sol, circumstance}
+
+
+design pattern char-
+
+purpose
+class diagram
+code
+ 
+
+Singleton Pattern
+ 
+purpose- restrict the instantiation(OBJECT) of class ensure only one instance exist
+
+public class Singletton{
+
+
+lazy sol when single threaded env
+eager sol in multi thread env
